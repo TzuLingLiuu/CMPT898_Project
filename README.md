@@ -1,6 +1,5 @@
-# [CMPT898 Project: NoduLens: A Pipeline for Nodule Detection in Lentils] 
-
-![Image](https://ibb.co/ckL5RW6)
+# [CMPT898 Project] 
+# NoduLens: A Pipeline for Nodule Detection in Lentils 
 
 The training YOLO dataset is [YOLODataset](https://drive.google.com/file/d/18wL51rCCgyXsgNTTpFKA31O4XyTslMoy/view?usp=drive_link)
 
