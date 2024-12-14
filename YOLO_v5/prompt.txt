@@ -1,0 +1,1 @@
+python3 /student/ywa826/project/CMPT898/Project/YOLO_v5/yolov5/train.py --img 128 --batch 16 --epochs 20 --data /student/ywa826/project/CMPT898/Project/YOLO_v5/YOLODataset/dataset.yaml --weights yolov5s.pt --name yolov5_nodules 
