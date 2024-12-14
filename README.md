@@ -1,4 +1,4 @@
-#CMPT898 Project: NoduLens: A Pipeline for Nodule Detection in Lentils 
+# [CMPT898 Project: NoduLens: A Pipeline for Nodule Detection in Lentils] 
 
 ![Image](https://ibb.co/ckL5RW6)
 
